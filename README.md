@@ -1,57 +1,65 @@
-<img src="./github-header-image.png" alt="" />
+# 👋 Hi, I'm Anand V
 
-###
+🚀 Full Stack Developer | AWS & DevOps Engineer  
+💼 3.5+ Years Experience | React | Spring Boot | AWS | Docker | Terraform  
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 👨‍💻 About Me
+- Full Stack Developer with **2 years** of experience in React & Spring Boot
+- **1.5 years** of hands-on AWS & DevOps experience
+- Built a **Timesheet Management Application** used for real business workflows
+- Strong in **CI/CD, Cloud Infrastructure, and REST APIs**
 
-<p align="left">- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+## 🛠 Tech Stack
 
-<h3 align="left">🛠 Language and tools</h3>
+### Frontend
+- React.js, JavaScript, HTML, CSS, Bootstrap
 
-###
+### Backend
+- Java, Spring Boot, Spring Security, JPA/Hibernate
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <br></br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+### Database
+- MySQL, PostgreSQL
 
-###
-<div align="left">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+### DevOps & Cloud
+- AWS (EC2, S3, IAM, RDS, VPC)
+- Docker, Jenkins, Azure DevOps
+- Terraform, Ansible
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
+
+## 📌 Featured Projects
+
+### 🕒 Timesheet Management System
+**Tech:** React, Spring Boot, MySQL, AWS  
+- Employee timesheet tracking
+- Role-based authentication
+- CSV/PDF export & email functionality
+- Multi-company (subdomain-based) architecture
+
+🔗 Repo: https://github.com/yourusername/timesheet-app
+
+---
+
+### ☁ AWS Infrastructure Automation
+**Tech:** Terraform, AWS, Azure DevOps  
+- Complete IaC setup for AWS
+- CI/CD pipeline for infra deployment
+- Automated validation & rollback
+
+🔗 Repo: https://github.com/yourusername/aws-terraform-iac
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/yourusername
+- Email: your.email@example.com
