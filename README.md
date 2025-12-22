@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anand V
 
-🚀 Full Stack Developer | AWS & DevOps Engineer  
-💼 3.5+ Years Experience | React | Spring Boot | AWS | Docker | Terraform  
+Full Stack Developer | AWS & DevOps Engineer  
+3.5+ Years Experience | React | Spring Boot | AWS | Docker | Terraform  
 
 ---
 
@@ -55,11 +55,11 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand1357&show_icons=true)
 
 ---
 
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/anand1357
 - Email: your.email@example.com
