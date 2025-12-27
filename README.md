@@ -40,8 +40,6 @@ Full Stack Developer | AWS & DevOps Engineer
 - CSV/PDF export & email functionality
 - Multi-company (subdomain-based) architecture
 
-🔗 Repo: https://github.com/yourusername/timesheet-app
-
 ---
 
 ### ☁ AWS Infrastructure Automation
@@ -50,8 +48,6 @@ Full Stack Developer | AWS & DevOps Engineer
 - CI/CD pipeline for infra deployment
 - Automated validation & rollback
 
-
-🔗 Repo: https://github.com/yourusername/aws-terraform-iac
 ---
 
 ## 📈 GitHub Stats
@@ -60,6 +56,6 @@ Full Stack Developer | AWS & DevOps Engineer
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/anand-v-6aa463232
 - GitHub: https://github.com/anand1357
-- Email: your.email@example.com
+- Email: vanand7531@gmail.com
