@@ -39,6 +39,9 @@ Full Stack Developer | AWS & DevOps Engineer
 - Role-based authentication
 - CSV/PDF export & email functionality
 - Multi-company (subdomain-based) architecture
+  
+🔗 Frontend Repo: https://github.com/anand1357/timesheet-management-system-v2
+🔗 Backend Repo: https://github.com/anand1357/timesheet-multitenant-backend-v2
 
 ---
 
