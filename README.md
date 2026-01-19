@@ -31,9 +31,9 @@ Full Stack Developer | AWS & DevOps Engineer
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-### 🕒 Timesheet Management System
+## 🕒 Timesheet Management System
 **Tech:** React, Spring Boot, MySQL, AWS  
 - Employee timesheet tracking
 - Role-based authentication
