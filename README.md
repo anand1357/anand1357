@@ -45,7 +45,8 @@ Full Stack Developer | AWS & DevOps Engineer
 🔗 Backend Repo: https://github.com/anand1357/timesheet-multitenant-backend-v2
 
 
-### ✅ Task Management System (JIRA-like)
+
+## ✅ Task Management System (JIRA-like)
 
 **Tech:** Tech: React, Spring Boot, Spring Security (JWT), MySQL
 - Project & task creation with status tracking (To Do, In Progress, Done)
